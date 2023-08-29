@@ -26,6 +26,9 @@ vec3 Bounce(vec3 pos, float time) {
   pos += vec3(0.0, bounce, 0.0);
 }
 ```
+
+<img align="center" height="150em" src="./suzanne.gif"/><img align="center" height="150em" src="./blob.gif"/><img align="center" height="150em" src="./bot.gif"/>
+
 <img align="center"
          height="150em"
          src="https://github-readme-stats.vercel.app/api/top-langs?username=PlusLius&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117&layout=compact"
