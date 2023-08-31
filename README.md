@@ -27,7 +27,7 @@ vec3 Bounce(vec3 pos, float time) {
 }
 ```
 
-<img align="center" height="150em" src="./suzanne.gif"/><img align="center" height="150em" src="./blob.gif"/><img align="center" height="150em" src="./bot.gif"/>
+<img align="center" height="150em" src="./suzanne.gif"/><img align="center" height="150em" src="./bloom.gif"/><img align="center" height="150em" src="./blob.gif"/><img align="center" height="150em" src="./bot.gif"/>
 
 <img align="center"
          height="150em"
