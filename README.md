@@ -38,7 +38,7 @@ vec3 Bounce(vec3 pos, float time) {
   pos += vec3(0.0, bounce, 0.0);
 }
 ```
-<img align="center" width="200em" height="150em" src="./toon.gif"/><img width="200em" align="center" height="150em" src="./suzanne.gif"/><img width="200em"  align="center" height="150em" src="./bloom.gif"/><img width="200em"  align="center" height="150em" src="./blob.gif"/><img width="200em" align="center" height="150em" src="./bot.gif"/>
+<img align="center" width="200" height="150em" src="./toon.gif"/><img width="200" align="center" height="150em" src="./suzanne.gif"/><img width="200"  align="center" height="150em" src="./bloom.gif"/><img width="200"  align="center" height="150em" src="./blob.gif"/><img width="210" align="center" height="150em" src="./bot.gif"/>
 
 <img align="center"
          height="150em"
