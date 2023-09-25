@@ -38,13 +38,11 @@ vec3 Bounce(vec3 pos, float time) {
   pos += vec3(0.0, bounce, 0.0);
 }
 ```
-<img align="center" width="210" height="150em" src="./Gems_Iridescence.gif"/>
-<img align="center" width="210" height="150em" src="./toon.gif"/><img width="210" align="center" height="150em" src="./suzanne.gif"/><img width="210"  align="center" height="150em" src="./bloom.gif"/><img width="215"  align="center" height="150em" src="./blob.gif"/><img width="210" align="center" height="150em" src="./bot.gif"/>
+<img align="center" width="210" height="150em" src="./Gems_Iridescence.gif"/><img align="center" width="210" height="150em" src="./toon.gif"/><img width="210" align="center" height="150em" src="./suzanne.gif"/><img width="210"  align="center" height="150em" src="./bloom.gif"/><img width="215"  align="center" height="150em" src="./blob.gif"/><img width="210" align="center" height="150em" src="./bot.gif"/>
 
 <img align="center"
          height="150em"
          src="https://github-readme-stats.vercel.app/api/top-langs?username=PlusLius&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117&layout=compact"
     />
-<img
-      align="center"
+<img align="center"
       src="https://github-profile-trophy.vercel.app/?username=PlusLius&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"/>
